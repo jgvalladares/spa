@@ -5,7 +5,7 @@ import { NgModule } from '@angular/core';
 import{APP_ROUTING} from './app.routes';
 
   //servicios
-  import { HeroesService } from './components/servicios/heroes.service';
+  import { HeroesService } from './servicios/heroes.service';
 
 //Componentes
 import { AppComponent } from './app.component';
